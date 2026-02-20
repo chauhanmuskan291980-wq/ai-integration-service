@@ -1,3 +1,2 @@
-print("Hello World")
-print("*" *10)
-x=0
+# What is expression in python ;
+print("*" * 3)
