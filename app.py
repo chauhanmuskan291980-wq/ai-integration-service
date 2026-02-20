@@ -5,3 +5,5 @@ print("*" * 3)
 
 # What does a linter do ?
 # linter is tool which is use to figer out the pontial error in code mainly in sytax error;
+
+
