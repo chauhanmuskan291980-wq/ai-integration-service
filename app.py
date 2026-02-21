@@ -126,7 +126,14 @@ for even in range(1,10):
 print(f"We have {count} Even Numbers")
 
 
-def greet():
-    print("Hi there")
+def greet(first_name , last_name):
+    print(f"Hi {first_name} {last_name}")
     print("welcome aboard")
-greet()
+
+greet("Muskan","Chauhan")
+
+def get_greeting(name):
+    return f"Hi {name}"
+
+message = get_greeting("Muskan")
+print(message)
