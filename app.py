@@ -124,3 +124,9 @@ for even in range(1,10):
         print(even)
 
 print(f"We have {count} Even Numbers")
+
+
+def greet():
+    print("Hi there")
+    print("welcome aboard")
+greet()
