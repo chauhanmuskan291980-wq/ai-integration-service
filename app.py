@@ -1,3 +1,4 @@
+import math
 course = "        Python Programming     "
 print(course.upper())
 print(course.lower())
@@ -23,3 +24,12 @@ x = x+3
 x +=3
 print(x)
  
+
+print(round(2.9))
+print(round(2.4))
+print(abs(-2.9))
+print(math.ceil(2.2))
+x1 = input("x:")
+print(x1)
+y = int(x1) + 1
+print(y)
