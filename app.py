@@ -115,3 +115,12 @@ command =""
 while command.lower() != "quit":
    command = input(">")
    print("ECHO",command)
+
+
+count = 0
+for even in range(1,10):
+    if(even%2 == 0):
+        count = count + 1
+        print(even)
+
+print(f"We have {count} Even Numbers")
