@@ -33,3 +33,12 @@ x1 = input("x:")
 print(x1)
 y = int(x1) + 1
 print(y)
+
+
+
+# what are the pprimitive types in python 
+# strings , Int , Boolean 
+
+fruit = "Apple"
+print(fruit[1])  #p
+print(fruit[1:-1])
