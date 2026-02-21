@@ -81,3 +81,9 @@ if (high_income or good_credit) and not student:
     print("Eligible")
 else:
     print("Not eligible")
+
+
+for number in range(1,10,3):
+    print("Attempt", number ,(number) * ".")
+
+ 
