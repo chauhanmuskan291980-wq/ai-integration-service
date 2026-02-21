@@ -44,3 +44,14 @@ print(fruit[1])  #p
 print(fruit[1:-1])
 
 print(bool("False"))
+
+
+temperature = 3
+if temperature > 30:
+    print("It's warm")
+    print("Drink Water")
+elif temperature < 20 and temperature > 10:
+    print("It's nice")
+else:
+    print("It's cold")
+print("Done")
